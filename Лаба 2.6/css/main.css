@@ -1,0 +1,32 @@
+.center
+{
+    width: 445px;
+    height: 330px;
+    position: absolute; 
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%,-50%);
+    padding: 10px;
+    
+    
+}
+.center2
+{
+    border: 8px solid blue;
+    width: 345px;
+    height: 360px;
+    position: absolute; 
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%,-50%);
+    padding: 40px;
+    align-items: center;
+    
+    
+}
+*{
+    margin: 100;
+    color: black;
+    font-size: 0,1rem;
+  
+  }

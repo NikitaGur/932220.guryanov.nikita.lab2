@@ -1,0 +1,29 @@
+.block1
+{   
+    width: 400px;
+    height: 80px;
+    background-color: bisque;
+    left: 1%;
+    top: 1%;
+    padding: 10px;
+}
+.block2
+{   
+    width: 1500px;
+    height: 250px;
+    background-color: aqua;
+    left: 1%;
+    top:100%;
+}
+.block3
+{   
+    width: 1150px;
+    height: 250px;
+    float: right;
+    background-color: darkgray;
+}
+body{
+    border: 2px solid green;
+    height: 250px;
+    width: 1500px;
+}

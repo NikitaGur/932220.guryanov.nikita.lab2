@@ -1,0 +1,20 @@
+.block1
+{
+    container: 10px;
+    margin: 0%;
+    position: relative;
+  background-color: aquamarine;
+  height: 100px;
+  width: 180px;
+  left: 2%;
+  top: 3%
+}
+
+.block2
+{
+    container: 10px;
+    margin: 0%;
+    background-color: bisque;
+    left: 1%;
+    top: 3%;
+}

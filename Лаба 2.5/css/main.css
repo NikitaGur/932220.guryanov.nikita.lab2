@@ -1,0 +1,33 @@
+.center
+{
+    width: 545px;
+    height: 230px;
+    background: green;
+    position: absolute; 
+    left: 50%;
+    top: 15%;
+    transform: translate(-50%,-50%);
+    padding: 10px;
+    
+    
+}
+.center2
+{
+    width: 545px;
+    height: 250px;
+    background: blue;
+    position: absolute; 
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    padding: 40px;
+    align-items: center;
+    
+    
+}
+*{
+    margin: 100;
+    color: white;
+    font-size: 0,1rem;
+  
+  }

@@ -1,0 +1,30 @@
+.text2
+{
+    float: left;
+    background-color: #C8FC98;
+    width: 25%;
+    padding:10px;
+}
+a:link 
+{
+    color: yellow;
+    display: block;
+    text-decoration: underline;
+    text-align: center;
+    background-color: black;
+    margin-top: 33.7%;   
+}
+
+.h1
+{
+    background-color: #EAEAEA;
+    padding: 2px;
+}
+
+.text3
+{
+    float: right;
+    width: 200px;
+    padding:10px;
+   background-color:#FFFF80;
+}

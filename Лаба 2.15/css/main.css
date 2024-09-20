@@ -1,0 +1,110 @@
+.b1
+{
+    position: absolute;
+    background-color: aquamarine;
+    height: 100px;
+    top:1%;
+    left:1%;
+    width: 180px;
+    margin:40px;
+}
+.b2
+{
+    position: absolute;
+    background-color: aquamarine;
+    height: 100px;
+    left:16%;
+    width: 180px;
+    margin:40px;
+}
+.b3
+{
+    position: absolute;
+    background-color: aquamarine;
+    height: 100px;
+    left:29%;
+    width: 180px;
+    margin:40px;
+}
+.b4
+{
+    position: absolute;
+    background-color: aquamarine;
+    height: 100px;
+    left:42%;
+    width: 180px;
+    margin:40px;
+}
+.b5
+{
+    position: absolute;
+    background-color: aquamarine;
+    height: 100px;
+    left:55%;
+    width: 180px;
+    margin:40px;
+}
+.b6
+{
+    position: absolute;
+    background-color: aquamarine;
+    height: 100px;
+    left:68%;
+    width: 180px;
+    margin:40px;
+}
+.b7
+{
+    position: absolute;
+    background-color: aquamarine;
+    height: 100px;
+    left:81%;
+    width: 180px;
+    margin:40px;
+}
+.b8
+{
+    position: absolute;
+    background-color: aquamarine;
+    height: 100px;
+    top:200px;
+    left:1%;
+    width: 180px;
+    margin:40px;
+}
+.b9
+{
+    position: absolute;
+    background-color: aquamarine;
+    height: 100px;
+    left:16%;
+    top:200px;
+    width: 180px;
+    margin:40px;
+}
+.b10
+{
+    position: absolute;
+    background-color: aquamarine;
+    height: 100px;
+    left:29%;
+    top:200px;
+    width: 180px;
+    margin:40px;
+}
+.b11
+{
+    position: absolute;
+    background-color: aquamarine;
+    height: 100px;
+    left:42%;
+    top:200px;
+    width: 180px;
+    margin:40px;
+}
+.block
+{
+    position: relative;
+    top:400px;
+    background-color: bisque;
+}

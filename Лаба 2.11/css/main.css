@@ -1,0 +1,15 @@
+.block1
+{
+    position: absolute;
+    background-color: aqua;
+    width: 1224px;
+    height: 264px;
+    top: 9.3px;
+   
+
+}
+body
+{
+    border: 2px solid green;
+    height: 264px;
+}

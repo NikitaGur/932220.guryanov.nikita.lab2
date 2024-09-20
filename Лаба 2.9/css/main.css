@@ -1,0 +1,15 @@
+.center
+{
+    width: 600px;
+    height: 530px;
+    background: blue;
+    position: absolute; 
+    left: 50%;
+    top: 32%;
+    transform: translate(-50%,-50%);
+    
+}
+body
+{
+color: white;
+}
